@@ -6,11 +6,6 @@
  
  ## Screenshots:
 
- ### explore screen:
- ![alt text](<explore app.jpeg>)
-
- ### signup screen:
- ![alt text](signup.jpeg)
-
-### login screen:
-![alt text](login.jpeg)
+<img src="explore app.jpeg" alt="explore app" width="300" height="600">
+<img src="signup.jpeg" alt="signup screen" width="300" height="600">
+<img src="login.jpeg" alt="login screen" width="300" height="600">
